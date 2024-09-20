@@ -1,1 +1,1 @@
-const skapi = new Skapi('service_id', 'owner_id');
+const skapi = new Skapi('new_service_id', 'new_owner_id');
